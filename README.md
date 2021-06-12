@@ -14,5 +14,8 @@ To leave your Open Source contribution, you have to choose among the issues we h
 🎯 Make a good choice
 ```
 
+## ✨ Projects & Issues
+
 ### Pojects with bad `README.md` file
 
+All this project has empty or too small `README.md` file, your mission is create a good file based on your experience 
